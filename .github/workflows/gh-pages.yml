@@ -20,7 +20,7 @@ jobs:
           extended: true
 
       - name: Build
-        run: hugo --minify --baseURL=https://andrewhj.github.io/GitHubPages
+        run: hugo --minify --baseURL=https://andrewhj.github.io/hugo-site/
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
