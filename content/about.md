@@ -36,5 +36,3 @@ Alex - Hippy Web Developer - Technophile
 Bob - Classic SysAdmin - Conservative
 
 Gabby - Cool Content Master - Cautious
-
-Scooter - Another content creator - Unknown
