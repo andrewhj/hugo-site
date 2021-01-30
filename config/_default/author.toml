@@ -1,0 +1,7 @@
+facebook = "https://facebook.com/example"
+twitter = "https://twitter.com/example"
+email = "acme.corporation@acme.com"
+name = "Acme Corporation"
+location = "Honolulu"
+phone = "(999) 999-9999"
+hours = "**Mon-Fri:** 8:00AM - 4:00PM HST (GMT-10)"
