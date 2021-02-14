@@ -9,11 +9,6 @@ name = "Contact"
 url = "/contact"
 weight = 2.0
 [[main]]
-identifier = "blog"
-name = "Blog"
-url = "/blog"
-weight = 3.0
-[[main]]
 identifier = "news"
 name = "News"
 url = "/news"

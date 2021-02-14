@@ -19,5 +19,9 @@ copyright = "Acme corporation"
     [[footer]]
     title = "Contact Us"
     contact = true
+    
+    [[footer]]
+    title = "Important Links"
+    menu = true
 [recent_posts]
 enable = true
